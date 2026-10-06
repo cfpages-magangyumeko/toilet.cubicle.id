@@ -18,11 +18,11 @@ Scope: article media planning only. No prose, HTML hydration, sitemap edit, depl
 | Image ID | Repository path | Relative URL | Filename inference |
 |---|---|---|---|
 | LOCAL-001 | `wp-content/uploads/2023/03/toilet-cubicle-phenolic.jpg` | `/wp-content/uploads/2023/03/toilet-cubicle-phenolic.jpg` | toilet cubicle phenolic |
-| LOCAL-002 | `wp-content/uploads/2023/03/cubicle-single-door.jpg` | `/wp-content/uploads/2023/03/cubicle-single-door.jpg` | cubicle single door |
+| LOCAL-002 | `wp-content/uploads/2026/10/kubikel-single-door-arsitektur-v3.webp` | `/wp-content/uploads/2026/10/kubikel-single-door-arsitektur-v3.webp` | cubicle single door |
 | LOCAL-003 | `wp-content/uploads/2023/03/cubicle-toilet-phenolic.jpg` | `/wp-content/uploads/2023/03/cubicle-toilet-phenolic.jpg` | cubicle toilet phenolic |
 | LOCAL-004 | `wp-content/uploads/2023/03/cubicle-toilet-PVC.jpg` | `/wp-content/uploads/2023/03/cubicle-toilet-PVC.jpg` | cubicle toilet PVC |
-| LOCAL-005 | `wp-content/uploads/2023/03/cubicle-two-tone.jpg` | `/wp-content/uploads/2023/03/cubicle-two-tone.jpg` | cubicle two tone |
-| LOCAL-006 | `wp-content/uploads/2023/03/premium.jpg` | `/wp-content/uploads/2023/03/premium.jpg` | premium |
+| LOCAL-005 | `wp-content/uploads/2026/10/kubikel-two-tone-arsitektur-v2.webp` | `/wp-content/uploads/2026/10/kubikel-two-tone-arsitektur-v2.webp` | cubicle two tone |
+| LOCAL-006 | `wp-content/uploads/2026/10/kubikel-premium-arsitektur-v2.webp` | `/wp-content/uploads/2026/10/kubikel-premium-arsitektur-v2.webp` | premium |
 
 ## Approved external image inventory
 
